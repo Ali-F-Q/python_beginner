@@ -1,0 +1,8 @@
+name,attack,defense,hp,pokedex_number,speed,type1,type2,generation
+Abomasnow,132,105,90,00460,30,grass,ice,4
+Blissey,10,10,255,00242,55,normal,,2
+Cloyster,95,180,50,00091,70,water,ice,1
+Cobalion,90,129,91,00638,108,steel,fighting,5
+Magneton,60,95,50,00082,70,electric,steel,1
+Magnezone,70,115,70,00462,60,electric,steel,4
+Zigzagoon,30,41,38,00263,60,normal,,3
